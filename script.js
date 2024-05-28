@@ -33,7 +33,7 @@ function calcularCostoTotal(numFotos, numVideos) {
     return costoTotal;
 }
 
-/* esta parte la googlee */
+/* esta parte la googlee, pero lo aprendí */
 
 function mostrarCosto() {
     const numFotos = parseInt(document.getElementById('numFotos').value);
